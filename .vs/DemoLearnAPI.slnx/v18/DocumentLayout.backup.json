@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects api\\DemoLearnAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7CF928-EE3D-4BCF-B437-319EC173D192}|Day2\\Day2.csproj|d:\\projects api\\demolearnapi\\day2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7CF928-EE3D-4BCF-B437-319EC173D192}|Day2\\Day2.csproj|solutionrelative:day2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7CF928-EE3D-4BCF-B437-319EC173D192}|Day2\\Day2.csproj|d:\\projects api\\demolearnapi\\day2\\dtos\\deptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7CF928-EE3D-4BCF-B437-319EC173D192}|Day2\\Day2.csproj|solutionrelative:day2\\dtos\\deptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7CF928-EE3D-4BCF-B437-319EC173D192}|Day2\\Day2.csproj|d:\\projects api\\demolearnapi\\day2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7CF928-EE3D-4BCF-B437-319EC173D192}|Day2\\Day2.csproj|solutionrelative:day2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7CF928-EE3D-4BCF-B437-319EC173D192}|Day2\\Day2.csproj|d:\\projects api\\demolearnapi\\day2\\dtos\\studentinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7CF928-EE3D-4BCF-B437-319EC173D192}|Day2\\Day2.csproj|solutionrelative:day2\\dtos\\studentinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7CF928-EE3D-4BCF-B437-319EC173D192}|Day2\\Day2.csproj|d:\\projects api\\demolearnapi\\day2\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7CF928-EE3D-4BCF-B437-319EC173D192}|Day2\\Day2.csproj|solutionrelative:day2\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7CF928-EE3D-4BCF-B437-319EC173D192}|Day2\\Day2.csproj|d:\\projects api\\demolearnapi\\day2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7CF928-EE3D-4BCF-B437-319EC173D192}|Day2\\Day2.csproj|solutionrelative:day2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7CF928-EE3D-4BCF-B437-319EC173D192}|Day2\\Day2.csproj|d:\\projects api\\demolearnapi\\day2\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7CF928-EE3D-4BCF-B437-319EC173D192}|Day2\\Day2.csproj|solutionrelative:day2\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7CF928-EE3D-4BCF-B437-319EC173D192}|Day2\\Day2.csproj|d:\\projects api\\demolearnapi\\day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7CF928-EE3D-4BCF-B437-319EC173D192}|Day2\\Day2.csproj|solutionrelative:day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentInsertDTO.cs",
+              "DocumentMoniker": "D:\\projects api\\DemoLearnAPI\\Day2\\DTOs\\StudentInsertDTO.cs",
+              "RelativeDocumentMoniker": "Day2\\DTOs\\StudentInsertDTO.cs",
+              "ToolTip": "D:\\projects api\\DemoLearnAPI\\Day2\\DTOs\\StudentInsertDTO.cs",
+              "RelativeToolTip": "Day2\\DTOs\\StudentInsertDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T08:46:53.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeptDTO.cs",
+              "DocumentMoniker": "D:\\projects api\\DemoLearnAPI\\Day2\\DTOs\\DeptDTO.cs",
+              "RelativeDocumentMoniker": "Day2\\DTOs\\DeptDTO.cs",
+              "ToolTip": "D:\\projects api\\DemoLearnAPI\\Day2\\DTOs\\DeptDTO.cs",
+              "RelativeToolTip": "Day2\\DTOs\\DeptDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T08:36:26.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\projects api\\DemoLearnAPI\\Day2\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Day2\\Models\\Department.cs",
+              "ToolTip": "D:\\projects api\\DemoLearnAPI\\Day2\\Models\\Department.cs",
+              "RelativeToolTip": "Day2\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T08:36:09.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\projects api\\DemoLearnAPI\\Day2\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Day2\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\projects api\\DemoLearnAPI\\Day2\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Day2\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T08:33:23.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "D:\\projects api\\DemoLearnAPI\\Day2\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "Day2\\DTOs\\StudentDTO.cs",
+              "ToolTip": "D:\\projects api\\DemoLearnAPI\\Day2\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "Day2\\DTOs\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T08:22:59.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\projects api\\DemoLearnAPI\\Day2\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Day2\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\projects api\\DemoLearnAPI\\Day2\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Day2\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T08:21:57.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\projects api\\DemoLearnAPI\\Day2\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Day2\\Models\\Student.cs",
+              "ToolTip": "D:\\projects api\\DemoLearnAPI\\Day2\\Models\\Student.cs",
+              "RelativeToolTip": "Day2\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T07:56:25.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects api\\DemoLearnAPI\\Day2\\Program.cs",
+              "RelativeDocumentMoniker": "Day2\\Program.cs",
+              "ToolTip": "D:\\projects api\\DemoLearnAPI\\Day2\\Program.cs",
+              "RelativeToolTip": "Day2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T07:53:58.015Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
